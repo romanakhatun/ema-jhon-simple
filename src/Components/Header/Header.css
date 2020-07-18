@@ -1,0 +1,30 @@
+.header .logo {
+  text-align: center;
+}
+.header .logo img {
+  width: 20%;
+  margin: 20px;
+}
+.header .nav {
+  height: 30px;
+  display: flex;
+  padding-top: 15px;
+  justify-content: flex-start;
+  background-color: black;
+}
+.header .nav li {
+  list-style: none;
+}
+.header .nav a {
+  text-decoration: none;
+  color: #fff;
+  padding: 15px 5px 11px 5px;
+  font-size: 17px;
+  margin-left: 20px;
+}
+.header .nav a:hover {
+  background-color: #d3d3d3;
+}
+.header .nav li:nth-child(1) {
+  margin-left: 50px;
+}
