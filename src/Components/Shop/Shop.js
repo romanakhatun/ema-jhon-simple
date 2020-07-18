@@ -9,8 +9,7 @@ const Shop = () => {
   const [cart, setCart] = ([]);
 
   const handleAddProduct = (product) => {
-    const newCart = [...cart, product];
-    setCart(newCart)
+    console.log("product add", product)
 
   };
 
