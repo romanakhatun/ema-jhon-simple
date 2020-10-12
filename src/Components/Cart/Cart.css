@@ -1,0 +1,16 @@
+.cartPrice{
+    padding: 0 20px;
+}
+.cartPrice a{
+    text-decoration: none;
+    color: #000000;
+}
+.cartPriceRow{
+    display: flex;
+    justify-content: space-between;
+}
+.orderTotal small{
+    font-size: 17px;
+    color: #b12704;
+    font-weight: bold;
+}

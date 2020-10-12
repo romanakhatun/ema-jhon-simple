@@ -1,4 +1,27 @@
 body {
   margin: 0;
   padding: 0;
+  font-family: sans-serif;
+}
+.btn {
+  background-color: #f0c14b;
+  border: 1px solid #a88734;
+  color: #111;
+  width: 200px;
+  height: 26px;
+  cursor: pointer;
+  border-radius: 3px;
+}
+.textCenter{
+  text-align: center;
+}
+small{
+  font-size: 13px;
+  line-height: 20px;
+}
+.price{
+  color: #b12704;
+    font-weight: 700;
+    font-size: 13px;
+    line-height: 19px;
 }

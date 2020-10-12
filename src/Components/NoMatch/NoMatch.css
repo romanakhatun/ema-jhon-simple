@@ -1,0 +1,21 @@
+.noMatch{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    padding: 100px 0;
+    line-height: 5px;
+}
+.noMatch h1{
+    font-weight: 600;
+    font-size: 40px;
+}
+.noMatch h2{    
+    font-size: 60px;
+    font-weight: 100;
+    margin-bottom: 20px;
+}
+.noMatch .link{
+    color: #ff9800;
+    font-weight: 700;
+}

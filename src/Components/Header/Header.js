@@ -12,15 +12,9 @@ const Header = () => {
       </div>
 
       <nav className="nav">
-        <li>
-          <a href="/shop">Shop</a>
-        </li>
-        <li>
-          <a href="/order">Order Review</a>
-        </li>
-        <li>
-          <a href="/inventory">Inventory</a>
-        </li>
+        <a href="/shop">Shop</a>
+        <a href="/order-review">Order Review</a>
+        <a href="/inventory">Inventory</a>
       </nav>
     </div>
   );
